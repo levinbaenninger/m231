@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Modul 162 - Datensicherheit"
+                  start-page="">
+
+    <toc-element topic="Datensicherheit.md"/>
+    <toc-element topic="Schwierigkeiten-bei-Datensicherheit.md"/>
+    <toc-element topic="Konsequenzen-Data-Breach.md"/>
+    <toc-element topic="Verschluesselung.md"/>
+    <toc-element topic="dl-dr-dm.md"/>
+</instance-profile>
