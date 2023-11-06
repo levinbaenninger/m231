@@ -3,7 +3,7 @@
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
 
     <variables>
-        <primary-color>forest</primary-color>
+        <primary-color>blueberry</primary-color>
         <header-logo>logo.png</header-logo>
     </variables>
     <build-profile instance="hi">
