@@ -3,12 +3,15 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="Modul 231 - Datensicherheit"
-                  start-page="">
+                  start-page="Datensicherheit.md">
 
-    <toc-element topic="Endgeraete-und-Server-schuetzen.md"/>
     <toc-element topic="Datensicherheit.md"/>
     <toc-element topic="Schwierigkeiten-bei-Datensicherheit.md"/>
     <toc-element topic="Konsequenzen-Data-Breach.md"/>
     <toc-element topic="Verschluesselung.md"/>
     <toc-element topic="dl-dr-dm.md"/>
+    <toc-element topic="Endgeraete-und-Server-schuetzen.md"/>
+    <toc-element topic="Access-Management.md"/>
+    <toc-element topic="Authentifizierung-und-Autorisierung.md"/>
+    <toc-element topic="Passwortmanager-und-verwaltung.md"/>
 </instance-profile>
