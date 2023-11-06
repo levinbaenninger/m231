@@ -5,6 +5,7 @@
 <instance-profile id="hi" name="Modul 231 - Datensicherheit"
                   start-page="">
 
+    <toc-element topic="Endgeraete-und-Server-schuetzen.md"/>
     <toc-element topic="Datensicherheit.md"/>
     <toc-element topic="Schwierigkeiten-bei-Datensicherheit.md"/>
     <toc-element topic="Konsequenzen-Data-Breach.md"/>
