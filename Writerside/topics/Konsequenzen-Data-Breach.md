@@ -4,7 +4,5 @@ Bei einem `data breach` handelt es sich um eine veröffentlichung von Daten, bei
 breach` könnte folgende Konsequenzen haben:
 
 - Rufschädigung der betroffenen Firma
-- Passwörter werden veröffentlicht
-- Möglicherweise Kreditkarteninformationen
-- Wichtige und private Dokumente, wie medizinische Akten, Steuern, etc.
-
+- Rechtliche Konsequenzen, Geldstrafen und Klagen
+- Diebstahl von Identitäten, Betroffene werden Opfer von Betrug
